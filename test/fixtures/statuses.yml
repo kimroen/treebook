@@ -1,9 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  content: "We went to this great party today, I think I might've killed somebody"
+  content: myText
   user: jason
 
 two:
-  content: "There was a pretty deep addition to our Hobbit-set today. Can't say any more."
+  content: MyText
   user: jason
+
+three:
+  content: "Hi I'm Jim"
+  user: jim
